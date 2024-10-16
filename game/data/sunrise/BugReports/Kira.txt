@@ -1,0 +1,3 @@
+Character Info: [Character: Kira[268481600] - Account: admin - IP: 127.0.0.1]
+Bug Type: General
+Message: ta uma bosta 

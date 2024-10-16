@@ -1,0 +1,30 @@
+[07 sep 18:17:29] AUDIT:Player DemonCutter has invalid skill Dual Dagger Mastery (923/1), class:Duelist, L2PcInstance:DemonCutter[268485003], BROADCAST
+[07 sep 18:17:29] AUDIT:Player DemonCutter has invalid skill Dual Dagger Mastery (2658/1), class:Duelist, L2PcInstance:DemonCutter[268485003], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Magician's Movement (118/1), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Fear (1092/1), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Dreaming Spirit (1097/2), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Chill Flame (1100/2), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Life Drain (1090/2), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Soul Shield (1010/1), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Chant of Battle (1007/1), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Soul Cry (1001/2), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Heavy Armor Mastery (253/2), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Light Armor Mastery (252/4), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Anti Magic (146/4), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Robe Mastery (251/4), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Weapon Mastery (250/2), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Mana Recovery (214/1), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Spellcraft (163/1), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:14:13] AUDIT:Player tikitaka has invalid skill Venom (1095/2), class:Destroyer, L2PcInstance:tikitaka[268481546], BROADCAST
+[12 oct 9:51:29] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[12 oct 9:52:03] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[12 oct 9:52:26] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[12 oct 9:52:41] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[15 oct 22:20:54] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[15 oct 22:21:34] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[15 oct 22:21:41] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[15 oct 22:21:44] AUDIT:Warning!! Character Kira of account admin tried to set total price more than 99900000000 adena in Private Store - Sell., L2PcInstance:Kira[268481216], JAIL
+[16 oct 11:58:05] AUDIT:Player pita has invalid skill Dwarven Craft (1321/1), class:Ghost Hunter, L2PcInstance:pita[268483015], BROADCAST
+[16 oct 11:58:05] AUDIT:Player pita has invalid skill Create Item (172/10), class:Ghost Hunter, L2PcInstance:pita[268483015], BROADCAST
+[16 oct 11:58:05] AUDIT:Player pita has invalid skill Expand Dwarven Craft (1368/8), class:Ghost Hunter, L2PcInstance:pita[268483015], BROADCAST
+[16 oct 16:45:34] AUDIT:Player zeze has invalid skill Fake Death (60/1), class:Doombringer, L2PcInstance:zeze[268482125], BROADCAST

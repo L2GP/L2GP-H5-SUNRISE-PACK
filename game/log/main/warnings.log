@@ -1,0 +1,764 @@
+[03.09.24 21:52:00] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[03.09.24 21:52:04] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[03.09.24 21:58:45] WARN:Master access level set for character Kira
+[03.09.24 21:58:53] WARN:No handler registered for admin command 'admin_ver'
+[03.09.24 22:06:19] WARN:Master access level set for character Kira
+[03.09.24 22:22:11] WARN:Master access level set for character Kira
+[03.09.24 22:37:35] WARN:Master access level set for character Kira
+[03.09.24 22:44:21] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: Kira
+[03.09.24 22:44:28] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: Kira
+[03.09.24 23:05:11] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: Kira
+[04.09.24 00:02:25] WARN:Master access level set for character Kira
+[04.09.24 00:37:51] WARN:No handler registered for admin command 'admin_haste4'
+[04.09.24 00:37:58] WARN:No handler registered for admin command 'admin_haste'
+[04.09.24 01:01:30] WARN:No handler registered for admin command 'admin_bot'
+[04.09.24 01:01:36] WARN:No handler registered for admin command 'admin_bots'
+[04.09.24 01:01:40] WARN:No handler registered for admin command 'admin_fake'
+[04.09.24 01:01:44] WARN:No handler registered for admin command 'admin_fakes'
+[04.09.24 01:01:52] WARN:No handler registered for admin command 'admin_fakeplayer'
+[04.09.24 01:02:00] WARN:No handler registered for admin command 'admin_fake_player'
+[04.09.24 01:32:53] WARN:totoro (268487185) tried to crystallize 5799
+[04.09.24 01:32:57] WARN:totoro (268487185) tried to crystallize 5799
+[04.09.24 01:39:21] WARN:Master access level set for character Kira
+[04.09.24 01:54:13] WARN:Master access level set for character Kira
+[04.09.24 01:57:45] WARN:L2PcInstance:Kira[268481600] requested not registered admin command 'admin_server_list_clock'
+[04.09.24 01:58:48] WARN:GM: Kira(268481600) issued shutdown command. shutting down in 5 seconds!
+[04.09.24 01:58:53] WARN:GM shutdown countdown is over. shutting down NOW!
+[07.09.24 15:54:56] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 15:55:00] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 15:55:49] WARN:Master access level set for character Kira
+[07.09.24 15:59:16] WARN:No handler registered for admin command 'admin_respawn'
+[07.09.24 16:06:22] WARN:Master access level set for character Kira
+[07.09.24 16:09:41] WARN:GM: Kira(268481600) issued shutdown command. restarting in 15 seconds!
+[07.09.24 16:09:56] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 16:10:13] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 16:10:16] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 16:11:03] WARN:Master access level set for character Kira
+[07.09.24 16:16:12] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[07.09.24 16:16:13] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 16:16:30] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 16:16:34] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 16:17:08] WARN:Master access level set for character Kira
+[07.09.24 16:20:56] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[07.09.24 16:20:57] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 16:21:14] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 16:21:18] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 16:21:34] WARN:Master access level set for character Kira
+[07.09.24 16:23:36] WARN:GM: Kira(268481600) issued shutdown command. restarting in 0 seconds!
+[07.09.24 16:23:36] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 16:23:53] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 16:23:56] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 16:24:13] WARN:Master access level set for character Kira
+[07.09.24 16:28:01] WARN:No handler registered for admin command 'admin_kill500'
+[07.09.24 16:43:35] WARN:Master access level set for character Kira
+[07.09.24 17:02:57] WARN:No handler registered for admin command 'admin_SPAWN'
+[07.09.24 17:07:58] WARN:GM: Kira(268481600) issued shutdown command. restarting in 0 seconds!
+[07.09.24 17:07:58] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 17:08:16] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 17:08:20] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 17:35:05] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: DemonCutter
+[07.09.24 18:10:50] WARN:Master access level set for character Kira
+[07.09.24 18:22:14] WARN:Master access level set for character Kira
+[07.09.24 19:26:02] WARN:No handler registered for admin command 'admin_SupportMagic'
+[07.09.24 19:31:23] WARN:No handler registered for admin command 'admin_playsounds'
+[07.09.24 19:32:33] WARN:No handler registered for admin command 'admin_kcf'
+[07.09.24 19:32:38] WARN:No handler registered for admin command 'admin_cfk'
+[07.09.24 19:32:44] WARN:No handler registered for admin command 'admin_help'
+[07.09.24 19:35:01] WARN:L2PcInstance:Kira[268481600] requested not registered admin command 'admin_cache_crest_fix'
+[07.09.24 20:39:54] WARN:No handler registered for admin command 'admin_spwan'
+[07.09.24 20:48:08] WARN:No handler registered for admin command 'admin_SET_HERO'
+[07.09.24 21:06:03] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 21:06:22] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 21:06:26] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 21:07:25] WARN:Master access level set for character Kira
+[07.09.24 21:48:07] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[07.09.24 21:48:08] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 21:48:26] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 21:48:29] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 21:50:11] WARN:Master access level set for character Kira
+[07.09.24 21:57:17] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[07.09.24 21:57:18] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 21:57:36] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 21:57:39] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 21:58:30] WARN:Master access level set for character Kira
+[07.09.24 22:06:50] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[07.09.24 22:06:51] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 22:07:08] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 22:07:11] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 22:07:31] WARN:Master access level set for character Kira
+[07.09.24 22:20:16] WARN:FourSepulchersManager: managerSay(): manager is not Sepulcher instance
+[07.09.24 22:20:16] WARN:FourSepulchersManager: managerSay(): manager is not Sepulcher instance
+[07.09.24 22:20:16] WARN:FourSepulchersManager: managerSay(): manager is not Sepulcher instance
+[07.09.24 22:20:16] WARN:FourSepulchersManager: managerSay(): manager is not Sepulcher instance
+[07.09.24 22:24:44] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[07.09.24 22:24:45] WARN:GM shutdown countdown is over. restarting NOW!
+[07.09.24 22:25:02] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 22:25:05] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[07.09.24 22:25:21] WARN:Master access level set for character Kira
+[07.09.24 22:38:35] WARN:Master access level set for character Kira
+[07.09.24 22:51:02] ERROR:C:\Users\party\Downloads\SAFE\L2GP READY\game\data\scripts\handlers\loader\GlobalLoader.java
+java.lang.NullPointerException
+	at ai.grandboss.QueenAnt.onKill(QueenAnt.java:348)
+	at l2r.gameserver.model.quest.Quest.notifyKill(Quest.java:596)
+	at l2r.gameserver.model.quest.Quest.lambda$addKillId$14(Quest.java:1947)
+	at l2r.gameserver.model.events.listeners.ConsumerEventListener.executeEvent(ConsumerEventListener.java:46)
+	at l2r.gameserver.model.events.EventDispatcher.notifyToListeners(EventDispatcher.java:243)
+	at l2r.gameserver.model.events.EventDispatcher.notifyEventImpl(EventDispatcher.java:217)
+	at l2r.gameserver.model.events.EventDispatcher.notifyEvent(EventDispatcher.java:86)
+	at l2r.gameserver.model.events.EventDispatcher.lambda$notifyEventAsyncDelayed$1(EventDispatcher.java:136)
+	at l2r.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:89)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[07.09.24 22:51:02] ERROR:QueenAnt: java.lang.NullPointerException
+	at ai.grandboss.QueenAnt.onKill(QueenAnt.java:348)
+	at l2r.gameserver.model.quest.Quest.notifyKill(Quest.java:596)
+	at l2r.gameserver.model.quest.Quest.lambda$addKillId$14(Quest.java:1947)
+	at l2r.gameserver.model.events.listeners.ConsumerEventListener.executeEvent(ConsumerEventListener.java:46)
+	at l2r.gameserver.model.events.EventDispatcher.notifyToListeners(EventDispatcher.java:243)
+	at l2r.gameserver.model.events.EventDispatcher.notifyEventImpl(EventDispatcher.java:217)
+	at l2r.gameserver.model.events.EventDispatcher.notifyEvent(EventDispatcher.java:86)
+	at l2r.gameserver.model.events.EventDispatcher.lambda$notifyEventAsyncDelayed$1(EventDispatcher.java:136)
+	at l2r.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:89)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[07.09.24 22:52:58] WARN:Antharas: Player Kira attacked Antharas in invalid conditions!
+[07.09.24 22:53:23] WARN:Antharas: Player Kira attacked Antharas in invalid conditions!
+[07.09.24 23:00:44] WARN:GM: Kira(268481600) issued shutdown command. shutting down in 5 seconds!
+[07.09.24 23:00:49] WARN:GM shutdown countdown is over. shutting down NOW!
+[07.09.24 23:56:12] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[07.09.24 23:56:16] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[08.09.24 00:39:08] WARN:Master access level set for character Kira
+[08.09.24 02:15:06] WARN:Master access level set for character Kira
+[08.09.24 03:02:12] WARN:Master access level set for character Kira
+[08.09.24 03:03:56] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[08.09.24 03:03:57] WARN:GM shutdown countdown is over. restarting NOW!
+[08.09.24 03:04:14] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[08.09.24 03:04:18] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[08.09.24 03:04:35] WARN:Master access level set for character Kira
+[08.09.24 03:51:09] WARN:GM: Kira(268481600) issued shutdown command. restarting in 1 seconds!
+[08.09.24 03:51:10] WARN:GM shutdown countdown is over. restarting NOW!
+[08.09.24 03:51:27] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[08.09.24 03:51:31] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[08.09.24 03:51:50] WARN:Master access level set for character Kira
+[08.09.24 04:05:57] WARN:GM: Kira(268481600) issued shutdown command. shutting down in 10 seconds!
+[08.09.24 04:06:07] WARN:GM shutdown countdown is over. shutting down NOW!
+[08.09.24 22:28:55] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[08.09.24 22:28:59] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[08.09.24 22:30:08] WARN:Master access level set for character Kira
+[09.09.24 01:18:45] WARN:Master access level set for character Kira
+[09.09.24 03:12:24] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[09.09.24 03:12:28] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[09.09.24 03:12:37] WARN:Master access level set for character Kira
+[09.09.24 03:30:08] WARN:Master access level set for character Kira
+[09.09.24 03:34:30] WARN:GM: Kira(268481600) issued shutdown command. shutting down in 1 seconds!
+[09.09.24 03:34:31] WARN:GM shutdown countdown is over. shutting down NOW!
+[20.09.24 01:36:26] WARN:Could not update characters online status: Table 'l2srgs.characters' doesn't exist
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2srgs.characters' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.Util.getInstance(Util.java:360)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:978)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1618)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1549)
+	at org.apache.commons.dbcp.DelegatingStatement.executeUpdate(DelegatingStatement.java:228)
+	at org.apache.commons.dbcp.DelegatingStatement.executeUpdate(DelegatingStatement.java:228)
+	at l2r.gameserver.idfactory.IdFactory.setAllCharacterOffline(IdFactory.java:181)
+	at l2r.gameserver.idfactory.IdFactory.<init>(IdFactory.java:141)
+	at l2r.gameserver.idfactory.BitSetIDFactory.<init>(BitSetIDFactory.java:54)
+	at l2r.gameserver.idfactory.IdFactory.<clinit>(IdFactory.java:162)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:188)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
+[20.09.24 01:36:26] WARN:Could not clean up invalid Weddings: Table 'l2srgs.characters' doesn't exist
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2srgs.characters' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.Util.getInstance(Util.java:360)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:978)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1618)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1549)
+	at org.apache.commons.dbcp.DelegatingStatement.executeUpdate(DelegatingStatement.java:228)
+	at org.apache.commons.dbcp.DelegatingStatement.executeUpdate(DelegatingStatement.java:228)
+	at l2r.gameserver.idfactory.IdFactory.cleanInvalidWeddings(IdFactory.java:312)
+	at l2r.gameserver.idfactory.IdFactory.<init>(IdFactory.java:146)
+	at l2r.gameserver.idfactory.BitSetIDFactory.<init>(BitSetIDFactory.java:54)
+	at l2r.gameserver.idfactory.IdFactory.<clinit>(IdFactory.java:162)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:188)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
+[20.09.24 01:36:26] WARN:Could not clean up database: Table 'l2srgs.characters' doesn't exist
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'l2srgs.characters' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.Util.getInstance(Util.java:360)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:978)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3887)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3823)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2435)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2582)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2526)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1618)
+	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1549)
+	at org.apache.commons.dbcp.DelegatingStatement.executeUpdate(DelegatingStatement.java:228)
+	at org.apache.commons.dbcp.DelegatingStatement.executeUpdate(DelegatingStatement.java:228)
+	at l2r.gameserver.idfactory.IdFactory.cleanUpDB(IdFactory.java:224)
+	at l2r.gameserver.idfactory.IdFactory.<init>(IdFactory.java:148)
+	at l2r.gameserver.idfactory.BitSetIDFactory.<init>(BitSetIDFactory.java:54)
+	at l2r.gameserver.idfactory.IdFactory.<clinit>(IdFactory.java:162)
+	at l2r.gameserver.GameServer.<init>(GameServer.java:188)
+	at l2r.gameserver.GameServer.main(GameServer.java:530)
+[20.09.24 01:36:26] ERROR:BitSetIDFactory: Could not be initialized properly: Table 'l2srgs.characters' doesn't exist
+[20.09.24 01:36:26] ERROR:GameServer: Could not read object IDs from DB. Please Check Your Data.
+[20.09.24 01:48:35] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[20.09.24 01:48:39] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[20.09.24 01:52:48] WARN:Master access level set for character Kira
+[20.09.24 02:00:41] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 5 seconds!
+[20.09.24 02:00:46] WARN:GM shutdown countdown is over. shutting down NOW!
+[20.09.24 18:31:56] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[20.09.24 18:32:00] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[20.09.24 18:39:58] WARN:Master access level set for character Kira
+[20.09.24 18:54:18] WARN:Master access level set for character Kira
+[20.09.24 19:02:29] WARN:Master access level set for character Kira
+[20.09.24 19:44:08] WARN:Master access level set for character Kira
+[20.09.24 19:49:19] WARN:Master access level set for character Kira
+[20.09.24 20:50:33] WARN:Master access level set for character Kira
+[20.09.24 20:59:06] WARN:Master access level set for character Kira
+[20.09.24 21:00:12] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 10 seconds!
+[20.09.24 21:00:12] WARN:GM shutdown countdown is over. aborting NOW!
+[20.09.24 21:00:22] WARN:GM shutdown countdown is over. shutting down NOW!
+[20.09.24 22:18:15] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[20.09.24 22:18:18] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[20.09.24 22:31:06] WARN:Master access level set for character Kira
+[20.09.24 22:45:04] WARN:Error while adding drop data (152, 23001, 999, 9999, 0, 999999): java.lang.NullPointerException
+[20.09.24 22:45:30] ERROR:java.lang.NullPointerException
+[20.09.24 22:46:10] ERROR:java.lang.NullPointerException
+[20.09.24 22:46:18] ERROR:java.lang.NullPointerException
+[20.09.24 22:46:34] ERROR:java.lang.NullPointerException
+[20.09.24 23:07:49] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[20.09.24 23:07:50] WARN:GM shutdown countdown is over. restarting NOW!
+[20.09.24 23:08:07] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[20.09.24 23:08:08] WARN:NpcTable: Drop data for undefined item template! NpcId: 152 itemId: 23001
+[20.09.24 23:08:10] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[20.09.24 23:09:34] WARN:Master access level set for character Kira
+[20.09.24 23:49:37] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[20.09.24 23:49:38] WARN:GM shutdown countdown is over. restarting NOW!
+[20.09.24 23:49:55] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[20.09.24 23:49:58] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[20.09.24 23:50:27] WARN:Master access level set for character Kira
+[21.09.24 00:28:06] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[21.09.24 00:28:07] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 00:28:24] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 00:28:28] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 01:42:01] WARN:Master access level set for character Kira
+[21.09.24 01:43:33] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 6 seconds!
+[21.09.24 01:43:39] WARN:GM shutdown countdown is over. shutting down NOW!
+[21.09.24 11:46:00] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 11:46:04] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 12:24:03] WARN:Master access level set for character Kira
+[21.09.24 12:28:46] WARN:GM: Kira(268481216) issued shutdown command. restarting in 5 seconds!
+[21.09.24 12:28:51] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 12:29:08] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 12:29:11] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 12:29:34] WARN:Master access level set for character Kira
+[21.09.24 12:35:55] WARN:Event Engine: GM Kira sent invalid bypass: event_start ; Dion Village ; Your cords ; 20
+[21.09.24 13:22:10] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[21.09.24 13:22:11] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 13:22:28] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 13:22:31] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 13:22:50] WARN:Master access level set for character Kira
+[21.09.24 13:27:29] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[21.09.24 13:27:30] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 13:27:47] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 13:27:50] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 13:28:13] WARN:Master access level set for character Kira
+[21.09.24 13:32:03] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[21.09.24 13:32:04] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 13:32:22] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 13:32:25] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 13:32:37] WARN:Master access level set for character Kira
+[21.09.24 13:34:10] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[21.09.24 13:34:11] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 13:34:29] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 13:34:32] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 13:34:44] WARN:Master access level set for character Kira
+[21.09.24 14:42:03] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[21.09.24 14:42:04] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 14:42:21] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 14:42:24] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 14:52:09] WARN:LoginServer not available, trying to reconnect...
+[21.09.24 15:33:45] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 15:33:48] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 15:35:19] WARN:Master access level set for character Kira
+[21.09.24 15:35:49] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[21.09.24 15:35:50] WARN:GM shutdown countdown is over. restarting NOW!
+[21.09.24 15:36:07] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[21.09.24 15:36:10] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[21.09.24 15:49:45] WARN:Master access level set for character Kira
+[21.09.24 18:00:35] WARN:LoginServer not available, trying to reconnect...
+[22.09.24 14:23:31] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[22.09.24 17:12:09] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[22.09.24 17:12:12] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[22.09.24 17:16:25] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[22.09.24 17:16:28] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[22.09.24 18:28:23] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[22.09.24 18:28:27] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[22.09.24 18:38:49] WARN:Master access level set for character Kira
+[22.09.24 18:54:59] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 1 seconds!
+[22.09.24 18:55:00] WARN:GM shutdown countdown is over. shutting down NOW!
+[23.09.24 00:59:25] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[23.09.24 00:59:29] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[23.09.24 20:42:41] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[23.09.24 20:42:44] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[25.09.24 08:38:11] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[25.09.24 08:38:14] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[25.09.24 11:28:23] WARN:LoginServer not available, trying to reconnect...
+[25.09.24 18:23:28] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[25.09.24 18:23:32] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[25.09.24 20:41:58] WARN:LoginServer not available, trying to reconnect...
+[25.09.24 20:46:52] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[25.09.24 20:46:55] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[25.09.24 20:56:04] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[25.09.24 20:56:30] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[25.09.24 21:02:50] WARN:Master access level set for character Kira
+[25.09.24 21:06:01] WARN:GM shutdown countdown is over. restarting NOW!
+[25.09.24 21:06:19] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[25.09.24 21:06:23] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[25.09.24 21:06:46] WARN:Master access level set for character Kira
+[25.09.24 21:21:31] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 1 seconds!
+[25.09.24 21:21:32] WARN:GM shutdown countdown is over. shutting down NOW!
+[25.09.24 23:39:02] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[25.09.24 23:39:05] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[26.09.24 00:11:57] WARN:LoginServer not available, trying to reconnect...
+[26.09.24 08:42:25] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[26.09.24 08:42:28] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[26.09.24 19:26:44] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[26.09.24 19:26:48] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[29.09.24 17:48:33] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[29.09.24 17:48:36] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[29.09.24 17:49:27] WARN:Master access level set for character Kira
+[29.09.24 18:17:27] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[29.09.24 18:17:30] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[29.09.24 18:18:29] WARN:Master access level set for character Kira
+[29.09.24 18:26:30] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[29.09.24 18:26:33] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[29.09.24 18:27:27] WARN:Master access level set for character Kira
+[29.09.24 18:41:36] WARN:GrandBossManager: Couldn't store grandbosses to database:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1036)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:338)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2232)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2265)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2064)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:790)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:395)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:325)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.apache.commons.dbcp.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:78)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.pool.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:1181)
+	at org.apache.commons.dbcp.PoolingDataSource.getConnection(PoolingDataSource.java:106)
+	at l2r.util.dbutils.BasicDataSource.getConnection(BasicDataSource.java:78)
+	at l2r.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:59)
+	at l2r.gameserver.instancemanager.GrandBossManager.storeMe(GrandBossManager.java:246)
+	at l2r.gameserver.instancemanager.tasks.GrandBossManagerStoreTask.run(GrandBossManagerStoreTask.java:31)
+	at l2r.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:89)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:213)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:297)
+	... 30 more
+[29.09.24 18:41:44] ERROR:Olympiad System: Failed to save olympiad data to database: 
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1036)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:338)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2232)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2265)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2064)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:790)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:395)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:325)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.apache.commons.dbcp.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:78)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.pool.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:1181)
+	at org.apache.commons.dbcp.PoolingDataSource.getConnection(PoolingDataSource.java:106)
+	at l2r.util.dbutils.BasicDataSource.getConnection(BasicDataSource.java:78)
+	at l2r.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:59)
+	at l2r.gameserver.model.entity.olympiad.Olympiad.saveOlympiadStatus(Olympiad.java:820)
+	at l2r.gameserver.taskmanager.tasks.TaskOlympiadSave.onTimeElapsed(TaskOlympiadSave.java:46)
+	at l2r.gameserver.taskmanager.TaskManager$ExecutedTask.run(TaskManager.java:110)
+	at l2r.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:89)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:213)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:297)
+	... 31 more
+[29.09.24 18:41:48] WARN:ExecutedTask: Cannot updated the Global Task 7: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1036)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:338)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2232)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2265)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2064)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:790)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:395)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:325)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.apache.commons.dbcp.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:78)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.pool.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:1181)
+	at org.apache.commons.dbcp.PoolingDataSource.getConnection(PoolingDataSource.java:106)
+	at l2r.util.dbutils.BasicDataSource.getConnection(BasicDataSource.java:78)
+	at l2r.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:59)
+	at l2r.gameserver.taskmanager.TaskManager$ExecutedTask.run(TaskManager.java:112)
+	at l2r.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:89)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:213)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:297)
+	... 29 more
+[29.09.24 18:46:36] WARN:GrandBossManager: Couldn't store grandbosses to database:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor100.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1036)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:338)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2232)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2265)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2064)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:790)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:377)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:395)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:325)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.apache.commons.dbcp.DriverManagerConnectionFactory.createConnection(DriverManagerConnectionFactory.java:78)
+	at org.apache.commons.dbcp.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:582)
+	at org.apache.commons.pool.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:1181)
+	at org.apache.commons.dbcp.PoolingDataSource.getConnection(PoolingDataSource.java:106)
+	at l2r.util.dbutils.BasicDataSource.getConnection(BasicDataSource.java:78)
+	at l2r.L2DatabaseFactory.getConnection(L2DatabaseFactory.java:59)
+	at l2r.gameserver.instancemanager.GrandBossManager.storeMe(GrandBossManager.java:246)
+	at l2r.gameserver.instancemanager.tasks.GrandBossManagerStoreTask.run(GrandBossManagerStoreTask.java:31)
+	at l2r.gameserver.ThreadPoolManager$RunnableWrapper.run(ThreadPoolManager.java:89)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:213)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:297)
+	... 30 more
+[04.10.24 15:19:45] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[04.10.24 15:19:49] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[11.10.24 00:53:52] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[11.10.24 00:53:56] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[11.10.24 01:03:34] WARN:Master access level set for character Kira
+[11.10.24 01:26:48] WARN:Error while adding drop data (21631, 23001, 9999, 99999, 0, 999999): java.lang.NullPointerException
+[11.10.24 01:29:36] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 2 seconds!
+[11.10.24 01:29:38] WARN:GM shutdown countdown is over. shutting down NOW!
+[12.10.24 09:13:56] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[12.10.24 09:13:58] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[12.10.24 09:14:00] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[12.10.24 09:31:40] WARN:Master access level set for character Kira
+[12.10.24 09:39:01] WARN:Error while adding drop data (2503, 30001, 99999, 999999, 0, 999999): java.lang.NullPointerException
+[12.10.24 09:52:57] WARN:GM: Kira(268481216) issued shutdown command. restarting in 5 seconds!
+[12.10.24 09:53:02] WARN:GM shutdown countdown is over. restarting NOW!
+[12.10.24 09:53:19] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[12.10.24 09:53:20] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[12.10.24 09:53:20] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[12.10.24 09:53:22] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[12.10.24 09:53:40] WARN:Master access level set for character Kira
+[12.10.24 09:56:04] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[12.10.24 09:56:04] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[12.10.24 09:56:52] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[12.10.24 09:56:53] WARN:GM shutdown countdown is over. restarting NOW!
+[12.10.24 09:57:11] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[12.10.24 09:57:12] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[12.10.24 09:57:12] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[12.10.24 09:57:14] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[12.10.24 09:57:26] WARN:Master access level set for character Kira
+[12.10.24 10:07:05] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[12.10.24 10:07:05] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[12.10.24 10:13:16] WARN:GM: Kira(268481216) issued shutdown command. restarting in 5 seconds!
+[12.10.24 10:13:21] WARN:GM shutdown countdown is over. restarting NOW!
+[12.10.24 10:13:39] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[12.10.24 10:13:40] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[12.10.24 10:13:40] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[12.10.24 10:13:42] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[12.10.24 10:20:56] WARN:Master access level set for character Kira
+[12.10.24 10:34:36] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: choco
+[12.10.24 11:08:46] WARN:Master access level set for character Kira
+[13.10.24 19:09:32] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[13.10.24 19:09:34] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[13.10.24 19:09:34] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[13.10.24 19:09:36] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[13.10.24 19:09:44] WARN:Master access level set for character Kira
+[13.10.24 19:10:11] WARN:Master access level set for character Kira
+[13.10.24 19:22:51] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 1 seconds!
+[13.10.24 19:22:52] WARN:GM shutdown countdown is over. shutting down NOW!
+[15.10.24 15:41:20] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 15:41:21] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 15:41:21] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 15:41:23] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 15:58:55] WARN:LoginServer not available, trying to reconnect...
+[15.10.24 16:06:30] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 16:06:31] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 16:06:31] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 16:06:33] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 16:07:05] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 16:07:07] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 16:07:07] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 16:07:08] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 16:16:06] WARN:Master access level set for character Kira
+[15.10.24 16:17:30] WARN:Master access level set for character Kira
+[15.10.24 16:18:02] WARN:No handler registered for admin command 'admin_show_market_all'
+[15.10.24 16:20:26] WARN:Master access level set for character Kira
+[15.10.24 16:22:28] WARN:Master access level set for character Kira
+[15.10.24 16:24:15] WARN:Master access level set for character Kira
+[15.10.24 16:33:31] WARN:Master access level set for character Kira
+[15.10.24 17:02:39] WARN:Master access level set for character Kira
+[15.10.24 18:25:42] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 18:25:44] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 18:25:44] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 18:25:46] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 18:29:20] WARN:Master access level set for character Kira
+[15.10.24 18:31:19] WARN:L2DefenderInstance spawned outside of Fortress, Castle or Siegable hall Zone! NpcId: 36384 x=82365 y=147956 z=-3473
+[15.10.24 18:33:19] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 18:33:19] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 18:33:45] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[15.10.24 18:33:46] WARN:GM shutdown countdown is over. restarting NOW!
+[15.10.24 18:34:04] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 18:34:05] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 18:34:05] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 18:34:07] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 18:40:27] WARN:Master access level set for character Kira
+[15.10.24 18:48:20] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 18:48:20] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 18:48:36] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[15.10.24 18:48:37] WARN:GM shutdown countdown is over. restarting NOW!
+[15.10.24 18:48:54] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 18:48:55] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 18:48:55] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 18:48:57] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 18:49:11] WARN:Master access level set for character Kira
+[15.10.24 19:00:51] WARN:No handler registered for admin command 'admin_banking'
+[15.10.24 19:06:00] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 19:06:00] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 19:06:22] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[15.10.24 19:06:23] WARN:GM shutdown countdown is over. restarting NOW!
+[15.10.24 19:06:39] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 19:06:41] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 19:06:41] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 19:06:43] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 19:08:59] WARN:Master access level set for character Kira
+[15.10.24 19:56:19] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: xDAT
+[15.10.24 20:08:28] WARN:AIOItem MultisellData: Cannot find list: 4 requested by player: bola
+[15.10.24 20:23:47] WARN:Master access level set for character Kira
+[15.10.24 20:35:30] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 20:35:30] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 20:49:33] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[15.10.24 20:49:34] WARN:GM shutdown countdown is over. restarting NOW!
+[15.10.24 20:49:51] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 20:49:53] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 20:49:53] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 20:49:55] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 20:51:06] WARN:Master access level set for character Kira
+[15.10.24 21:06:00] WARN:GM shutdown countdown is over. restarting NOW!
+[15.10.24 21:06:17] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[15.10.24 21:06:18] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[15.10.24 21:06:18] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[15.10.24 21:06:20] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[15.10.24 21:22:45] WARN:Master access level set for character Kira
+[15.10.24 21:22:55] WARN:No handler registered for admin command 'admin_goto'
+[15.10.24 22:22:27] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 1 seconds!
+[15.10.24 22:22:28] WARN:GM shutdown countdown is over. shutting down NOW!
+[16.10.24 11:57:48] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[16.10.24 11:57:50] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[16.10.24 11:57:50] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[16.10.24 11:57:52] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[16.10.24 13:58:02] WARN:Master access level set for character Kira
+[16.10.24 14:55:50] WARN:Master access level set for character Kira
+[16.10.24 14:56:02] WARN:No handler registered for admin command 'admin_goto'
+[16.10.24 14:56:17] WARN:No handler registered for admin command 'admin_move'
+[16.10.24 15:33:34] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[16.10.24 15:33:34] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[16.10.24 15:34:34] WARN:No handler registered for admin command 'admin_restart'
+[16.10.24 15:34:40] WARN:No handler registered for admin command 'admin_shutdown'
+[16.10.24 15:34:50] WARN:No handler registered for admin command 'admin_gm_shutdown'
+[16.10.24 15:35:06] WARN:No handler registered for admin command 'admin_admin_shutdown'
+[16.10.24 15:36:11] WARN:No handler registered for admin command 'admin_npcs'
+[16.10.24 15:38:16] WARN:No handler registered for admin command 'admin_game_menu'
+[16.10.24 15:38:23] WARN:No handler registered for admin command 'admin_admin_game_menu'
+[16.10.24 15:39:12] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[16.10.24 15:39:13] WARN:GM shutdown countdown is over. restarting NOW!
+[16.10.24 15:39:31] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[16.10.24 15:39:33] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[16.10.24 15:39:33] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[16.10.24 15:39:35] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[16.10.24 16:15:29] WARN:Master access level set for character Kira
+[16.10.24 16:46:22] WARN:Master access level set for character Kira
+[16.10.24 16:46:35] WARN:GM: Kira(268481216) issued shutdown command. restarting in 1 seconds!
+[16.10.24 16:46:36] WARN:GM shutdown countdown is over. restarting NOW!
+[16.10.24 16:46:52] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[16.10.24 16:46:53] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[16.10.24 16:46:53] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[16.10.24 16:46:55] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[16.10.24 17:40:17] WARN:Master access level set for character Kira
+[16.10.24 18:14:57] WARN:[Character: Kira[268481216] - Account: admin - IP: 127.0.0.1] sent bad RequestBypassToServer: "admin_pledge setlevel 9999999999"
+java.lang.NumberFormatException: For input string: "9999999999"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at handlers.admincommandhandlers.AdminPledge.useAdminCommand(AdminPledge.java:128)
+	at l2r.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:189)
+	at l2r.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:71)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[16.10.24 21:06:03] WARN:GM shutdown countdown is over. restarting NOW!
+[16.10.24 21:06:20] WARN:BuyListData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\buylists\custom doesn't exist!
+[16.10.24 21:06:21] WARN:NpcTable: Drop data for undefined item template! NpcId: 2503 itemId: 30001
+[16.10.24 21:06:21] WARN:NpcTable: Drop data for undefined item template! NpcId: 21631 itemId: 23001
+[16.10.24 21:06:23] WARN:TransformData: Folder C:\Users\party\Downloads\SAFE\L2GP READY\game\data\xml\stats\transformations\custom doesn't exist!
+[16.10.24 21:23:28] WARN:Master access level set for character Kira
+[16.10.24 21:23:57] WARN:GM: Kira(268481216) issued shutdown command. shutting down in 1 seconds!
+[16.10.24 21:23:58] WARN:GM shutdown countdown is over. shutting down NOW!

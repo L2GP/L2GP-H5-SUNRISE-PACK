@@ -1,0 +1,48 @@
+[16.10.24 11:57:36] INFO: Loading LoginController...
+[16.10.24 11:57:37] INFO: Cached 10 KeyPairs for RSA communication
+[16.10.24 11:57:37] INFO: Stored 20 keys for Blowfish communication
+[16.10.24 11:57:37] INFO: GameServerTable: Loaded 127 server names
+[16.10.24 11:57:37] INFO: GameServerTable: Loaded 1 registered Game Servers
+[16.10.24 11:57:37] INFO: GameServerTable: Cached 10 RSA keys for Game Server communication.
+[16.10.24 11:57:37] INFO: Loaded 2 IP Bans.
+[16.10.24 11:57:37] INFO: eMail System Loaded
+[16.10.24 11:57:37] INFO: Listening for GameServers on 127.0.0.1:9014
+[16.10.24 11:57:37] INFO: Telnet server is currently disabled.
+[16.10.24 11:57:37] INFO: L2LoginServer: is now listening on: *:2106
+[16.10.24 11:57:37] INFO: Looking for UPnP Gateway Devices...
+[16.10.24 11:57:47] INFO: No UPnP gateways found
+[16.10.24 11:58:02] INFO: Updated Gameserver [1] Bartz IP's:
+[16.10.24 11:58:02] INFO: 127.0.0.1/127.0.0.0/8
+[16.10.24 11:58:02] INFO: 10.0.0.0/10.0.0.0/8
+[16.10.24 11:58:02] INFO: 172.16.0.0/172.16.0.0/19
+[16.10.24 11:58:02] INFO: 192.168.0.0/192.168.0.0/16
+[16.10.24 11:58:02] INFO: party.ddns.net/0.0.0.0/0
+[16.10.24 12:00:03] INFO: Auto created account 'zeze'.
+[16.10.24 15:39:25] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[16.10.24 15:39:25] INFO: Server [1] Bartz is now set as disconnected
+[16.10.24 15:39:44] INFO: Updated Gameserver [1] Bartz IP's:
+[16.10.24 15:39:44] INFO: 127.0.0.1/127.0.0.0/8
+[16.10.24 15:39:44] INFO: 10.0.0.0/10.0.0.0/8
+[16.10.24 15:39:44] INFO: 172.16.0.0/172.16.0.0/19
+[16.10.24 15:39:44] INFO: 192.168.0.0/192.168.0.0/16
+[16.10.24 15:39:44] INFO: party.ddns.net/0.0.0.0/0
+[16.10.24 15:52:12] INFO: The password for account zeze has been changed from RHqX3ymjRrRSep6bcTwuTVcNt2M= to o6VGBoJedHS578vCeLKUuTVKVj8=
+[16.10.24 16:46:44] INFO: LoginServerThread: Login terminated the connection.
+[16.10.24 16:46:44] INFO: Server [1] Bartz is now set as disconnected
+[16.10.24 16:47:05] INFO: Updated Gameserver [1] Bartz IP's:
+[16.10.24 16:47:05] INFO: 127.0.0.1/127.0.0.0/8
+[16.10.24 16:47:05] INFO: 10.0.0.0/10.0.0.0/8
+[16.10.24 16:47:05] INFO: 172.16.0.0/172.16.0.0/19
+[16.10.24 16:47:05] INFO: 192.168.0.0/192.168.0.0/16
+[16.10.24 16:47:05] INFO: party.ddns.net/0.0.0.0/0
+[16.10.24 17:36:20] INFO: Auto created account 'lalinha'.
+[16.10.24 21:06:15] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[16.10.24 21:06:15] INFO: Server [1] Bartz is now set as disconnected
+[16.10.24 21:06:31] INFO: Updated Gameserver [1] Bartz IP's:
+[16.10.24 21:06:31] INFO: 127.0.0.1/127.0.0.0/8
+[16.10.24 21:06:31] INFO: 10.0.0.0/10.0.0.0/8
+[16.10.24 21:06:31] INFO: 172.16.0.0/172.16.0.0/19
+[16.10.24 21:06:31] INFO: 192.168.0.0/192.168.0.0/16
+[16.10.24 21:06:31] INFO: party.ddns.net/0.0.0.0/0
+[16.10.24 21:24:10] INFO: GameServer [1] Bartz: Connection lost: Connection reset
+[16.10.24 21:24:10] INFO: Server [1] Bartz is now set as disconnected
